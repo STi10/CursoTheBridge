@@ -1,0 +1,1 @@
+print(f"¿Por qué esta magnífica tecnología científica,que ahorra trabajo y nos hace la vida más fácil,nos aporta tan poca felicidad? \n La respuesta está, simplemente: porque aún no hemos aprendido a usarla con tino. \n Albert Einstein")
