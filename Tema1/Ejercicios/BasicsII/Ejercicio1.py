@@ -16,3 +16,9 @@ print(type(suma))       # <class 'float'>
 del num_int
 del num_float
 del suma
+'''
+print(num_int)  # NameError: name 'num_int' is not defined
+print(num_float)  # NameError: name 'num_float' is not defined          
+print(suma)  # NameError: name 'suma' is not defined
+# Las variables han sido eliminadas y ya no existen
+'''

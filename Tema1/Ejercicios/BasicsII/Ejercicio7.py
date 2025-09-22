@@ -11,3 +11,5 @@ if suma > 10:
     print("La suma es superior a 10.")
 if suma < 10:
     print("La suma es inferior a 10.")
+else:
+    print("Error en la suma.")
